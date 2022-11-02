@@ -1,2 +1,2 @@
-# Git
+# mygit
 my traning website 
